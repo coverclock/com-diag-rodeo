@@ -1,1 +1,1 @@
-ffmpeg -i "./output/%d5.png" -y output.mpeg
+ffmpeg -i "./output/%5d.png" -y output.mpeg
