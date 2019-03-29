@@ -17,6 +17,8 @@ Items in the Curtis directory are the property of Howard D. Curtis
 (author of "Orbital Mechanics for Engineering Students") and Elsevier
 (publisher of same), and were extracted from
 <http://booksite.elsevier.com/9780080977478/downloads/M-Files_for_Orbital_Mechanics_for_Engineering_Students_3e.zip>.
+I have modified some of the files to have consistent UNIX line endings.
+Some had DOS line endings, some had old-style Mac line endings.
 
 A PDF of of the first edition of Curtis can be found at
 <http://www.nssc.ac.cn/wxzygx/weixin/201607/P020160718380095698873.pdf>,
