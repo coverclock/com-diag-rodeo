@@ -16,6 +16,6 @@ for t=[0:1000]
     xlabel("x");
     ylabel("y");
     zlabel("u(x,y)");
-    filename=sprintf('output/%05d.png',t);
+    filename=sprintf('./out/Krizka/%05d.png',t);
     print(filename);
 end
